@@ -8,7 +8,7 @@
 
 ### ✅ **Features**
 
-* Fast keyword search in `.csv` files
+* Fast keyword search in `.csv` or in `txt` files
 * User-friendly and minimalistic interface
 * Supports large datasets
 * Cross-platform (Windows, macOS, Linux)
