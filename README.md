@@ -18,10 +18,10 @@
 
 ### 📌 **Usage**
 
-1. Launch the tool (`python main.py` or via `launch.bat`)
-2. Enter the path to your `.csv` file
-3. Type the string you want to search for
-4. View results directly in your terminal
+1. Launch the tool (`python main.py` or via `searcher.bat`)
+3. Enter the path to your `.csv` file
+4. Type the string you want to search for
+5. View results directly in your terminal
 
 ---
 
